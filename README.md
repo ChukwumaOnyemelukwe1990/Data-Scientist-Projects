@@ -15,6 +15,11 @@ This repository contains Python script for variable identification, missing valu
 3. **'corona_virus.info()'**
    - **Purpose**: Used to get the concise summary of the corona virus dataset.
 
+4. **'corona_virus.dtypes()'**
+   - **Purpose**: Used to check variable types for Int, Float or Object.
+
+5. **'corona_virus.shape
+
 
 
 
