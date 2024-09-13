@@ -6,6 +6,8 @@ This repository contains Python script for variable identification, missing valu
 
 ## Python Script Descriptions
 
+1. **'Import pandas as pd'**
+
 
 
 
