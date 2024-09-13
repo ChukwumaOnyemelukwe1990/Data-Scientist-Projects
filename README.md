@@ -1,2 +1,6 @@
-# Data-Scientist-Projects
+# Data Science Project (Corona Virus 2020)
+
+# DESCRIPTIVE STATISTICS OF 2020 CORONA VIRUS DATASET
+
+
 
