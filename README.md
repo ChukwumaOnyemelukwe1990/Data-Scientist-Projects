@@ -4,9 +4,16 @@
 
 This repository contains Python script for variable identification, missing value treatment, outlier identification, correlation and machine learning modeling. 
 
-## Python Script Descriptions
+## Python Script Descriptive Statistics
 
 1. **'Import pandas as pd'**
+   - **Purpose**: To import CVS file into Python Notebook for statistical and predictive analysis.
+
+2. **'corona_virus.head()'**
+   - **Purpose**: Used to have insight into the dataset.
+  
+3. **'corona_virus.info()'**
+   - **Purpose**: Used to get the concise summary of the corona virus dataset.
 
 
 
