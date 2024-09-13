@@ -1,6 +1,8 @@
-# Data Science Project (Corona Virus 2020)
+# DATA SCIENCE PROJECT (Corona Virus 2020)
 
-# DESCRIPTIVE STATISTICS 
+# Descriptive Statistcis Overview
+
+This repository contains Python script for variable identification, missing value treatment, outlier identification, correlation and machine learning modeling. 
 
 
 
