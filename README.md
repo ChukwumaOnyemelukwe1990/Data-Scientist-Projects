@@ -18,7 +18,8 @@ This repository contains Python script for variable identification, missing valu
 4. **'corona_virus.dtypes()'**
    - **Purpose**: Used to check variable types for Int, Float or Object.
 
-5. **'corona_virus.shape
+5. **'corona_virus.shape'**
+   - **Purpose**: Used this script know the number of columns and rows present in the dataset
 
 
 
