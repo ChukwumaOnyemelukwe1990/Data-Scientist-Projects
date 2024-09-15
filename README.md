@@ -27,6 +27,26 @@ This repository contains Python script for variable identification, missing valu
 7. **'corona_virus.shape'**
    - **Purpose**: Used this script know the number of columns and rows present in the dataset
   
+8. **'corona_virus2.rename(columns={'reporting date':'reporting_date'}, inplace=True)'**
+   - **Purpose**: Changed column names such as Visiting Wuhan to Visiting_Wuhan, From Wuahn to From_Wuhan etc.
+  
+9. **'corona_virus2.gender  = corona_virus2.gender.str.replace('female', '0').str.replace('male', '1')'**
+   - **Purpose**: Replaced categorical class values to class Binary values as well as using value_counts() to check number number of males and females.
+  
+10. **'corona_virus2[["reporting_date"]] = corona_virus2[["reporting_date"]].apply(pd.to_datetime)'**
+    - **Purpose**: Changed date related columns to Datetime.
+   
+11. **'corona_virus2.fillna(0, inplace=True)'**
+    - **Purpose**: Filling in the null for better result accuracy.
+   
+ 12. **'IQR = Q3 - Q1'**
+     - **Purpose**: To identify outliers with interquartile range (IQR).
+    
+ 13. **'Box Plot'**
+     - **Purpose**: Another method used to check for outliers, matplotlib inline, importing seaborn as sns and matplotlib.pyplot as plt.
+     - **Code**: plt.boxplot = corona_virus3.boxplot(grid=False, rot=45, fontsize=15)
+plt.show().
+  
 
 
 
