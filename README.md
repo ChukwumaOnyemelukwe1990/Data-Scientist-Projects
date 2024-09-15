@@ -2,7 +2,8 @@
 
 # Descriptive Statistcis Overview
 
-This repository contains Python script for variable identification, missing value treatment, outlier identification, correlation and machine learning modeling. 
+This repository contains Python script for variable identification, missing value treatment, outlier identification, outlier 
+ treatment, correlation between variables and machine learning modeling. 
 
 ## Python Script Descriptive Statistics
 
