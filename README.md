@@ -49,7 +49,7 @@ This repository contains Python script for variable identification, missing valu
 
         ![image](https://github.com/user-attachments/assets/275559fd-e7a3-4ee5-bee7-a00f86ea7e67).
 
-   - **Seaborn Code**: sns.boxplot(corona_virus3.case_in_country).
+    - **Seaborn Code**: sns.boxplot(corona_virus3.case_in_country).
 
         ![image](https://github.com/user-attachments/assets/96c74724-cf76-40ff-ad42-c4d1b154285c)
 
