@@ -2,8 +2,7 @@
 
 # Descriptive Statistcis Overview
 
-This repository contains Python script for variable identification, missing value treatment, outlier identification, outlier 
- treatment, correlation between variables and machine learning modeling. 
+This repository contains Python script for variable identification, missing value treatment, outlier identification, correlation between variables and machine learning modeling. 
 
 ## Python Script Descriptive Statistics
 
@@ -49,9 +48,16 @@ This repository contains Python script for variable identification, missing valu
 
         ![image](https://github.com/user-attachments/assets/275559fd-e7a3-4ee5-bee7-a00f86ea7e67).
 
-    - **Seaborn Code**: sns.boxplot(corona_virus3.case_in_country).
+   - **Seaborn Code**: sns.boxplot(corona_virus3.case_in_country).
+   -  Executed the same code for other variables.
 
         ![image](https://github.com/user-attachments/assets/96c74724-cf76-40ff-ad42-c4d1b154285c)
+
+   - **Histogram**: corona_virus3.case_in_country.hist().
+   -  Executed the same code for the selected variables.
+
+        ![image](https://github.com/user-attachments/assets/49d90bf6-1de5-479b-9915-ef5ba84fec69)
+
 
 
 
