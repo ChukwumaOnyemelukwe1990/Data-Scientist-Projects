@@ -59,7 +59,7 @@ This repository contains Python script for variable identification, missing valu
         ![image](https://github.com/user-attachments/assets/49d90bf6-1de5-479b-9915-ef5ba84fec69)
 
 
-# Computing Correlation Metrices
+## Computing Correlation Metrices
 
 1. **Correlation Metrices**: corr_p = corona_virus3[['case_in_country']].corr(method='pearson').
 2. print(corr_p).
