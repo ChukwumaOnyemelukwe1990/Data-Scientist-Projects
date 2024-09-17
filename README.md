@@ -73,8 +73,8 @@ This repository contains Python script for variable identification, missing valu
 2. **Target Variable**: Dealth
 
 
-## MACHINE LEARNING
-# Train and Test Data
+# MACHINE LEARNING
+## Train and Test Data
 
 1. X_train, X_test, y_train, y_test = model_selection.train_test_split(X,y,test_size=0.3,random_state=0).
 2. from sklearn.preprocessing import StandardScaler
