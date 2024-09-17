@@ -66,7 +66,7 @@ This repository contains Python script for variable identification, missing valu
 
 3. Used Seaborn Heatmap to showcase correlation between variables.
 
-        ![image](https://github.com/user-attachments/assets/5c3fe7ef-b84b-4469-a6d1-eb30ad3eff3c)
+   ![image](https://github.com/user-attachments/assets/5c3fe7ef-b84b-4469-a6d1-eb30ad3eff3c)
 
 
 
