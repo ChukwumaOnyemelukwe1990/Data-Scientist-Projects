@@ -69,6 +69,12 @@ This repository contains Python script for variable identification, missing valu
    ![image](https://github.com/user-attachments/assets/5c3fe7ef-b84b-4469-a6d1-eb30ad3eff3c)
 
 
+# Machine Learning
+
+1. **Feature Collection for X-Variables**: Gender, Age, Visiting_Wuhan, Recovered
+2. **Target Variable**: Dealth
+
+
 
  
 
