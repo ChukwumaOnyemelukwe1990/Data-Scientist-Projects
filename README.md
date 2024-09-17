@@ -69,10 +69,19 @@ This repository contains Python script for variable identification, missing valu
    ![image](https://github.com/user-attachments/assets/5c3fe7ef-b84b-4469-a6d1-eb30ad3eff3c)
 
 
-# Machine Learning
-
 1. **Feature Collection for X-Variables**: Gender, Age, Visiting_Wuhan, Recovered
 2. **Target Variable**: Dealth
+
+
+## MACHINE LEARNING
+# Train and Test Data
+
+1. X_train, X_test, y_train, y_test = model_selection.train_test_split(X,y,test_size=0.3,random_state=0).
+2. from sklearn.preprocessing import StandardScaler
+   - scaler = StandardScaler()
+   - scaler.fit(X_train)
+   - X_train_scaled = scaler.transform(X_train)
+   - X_test_scaled = scaler.transform(X_test).
 
 
 
