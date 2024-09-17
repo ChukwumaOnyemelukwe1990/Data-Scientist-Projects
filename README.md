@@ -82,6 +82,28 @@ This repository contains Python script for variable identification, missing valu
    - scaler.fit(X_train)
    - X_train_scaled = scaler.transform(X_train)
    - X_test_scaled = scaler.transform(X_test).
+  
+## Model Classification and Model Evaluation
+1. Three model classification were used machine learning;
+   - KNN Classification
+   - Logistic Regression and
+   - Decision Tree
+  
+2. Each model was evaluated on Accuracy and ROC Curve.
+3. **Accuracy**: KNN - 0.972, Logistic Regression - 0.969, Decision Tree - 0.975
+4. **ROC-Curve**: KNN - 0.784, Logistic Regression - 0.923, Decision Tree - 0.917
+
+## ROC-Curve
+
+  ![image](https://github.com/user-attachments/assets/2c25b69e-6769-4829-8884-d8c0a1efb916)
+
+
+## Conclusion
+The ROC curve and accuracy best describe the best model between Logistic Regression and Decision Trees. From the accuracy and the ROC curve, the decision tree model is the most accurate but Logistic Regression is shown in the ROC curve as the best model to choose.
+
+   
+
+
 
 
 
