@@ -101,6 +101,15 @@ This repository contains Python script for variable identification, missing valu
 ## Conclusion
 The ROC curve and accuracy best describe the best model between Logistic Regression and Decision Trees. From the accuracy and the ROC curve, the decision tree model is the most accurate but Logistic Regression is shown in the ROC curve as the best model to choose.
 
+
+
+
+
+# SQL PROJECT (INSTACART DATABASE)
+
+# The Database was based on the creation of a new database as "Instacart" on Sql to paveway for the collection of information.
+
+
    
 
 
