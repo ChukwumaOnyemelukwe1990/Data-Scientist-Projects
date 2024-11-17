@@ -105,6 +105,8 @@ The ROC curve and accuracy best describe the best model between Logistic Regress
 
 
 
+
+
 # SQL PROJECT (INSTACART DATABASE)
 
 # The Database was based on the creation of a new database as "Instacart" on Sql to paveway for the collection of information.
